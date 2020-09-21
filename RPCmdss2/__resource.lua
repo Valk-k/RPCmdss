@@ -1,0 +1,5 @@
+server_script 'id.lua'
+server_script 'atow.lua'
+server_script 'rtow.lua'
+server_script 'nhs.lua'
+server_script 'rnhs.lua'
